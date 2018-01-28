@@ -4,4 +4,7 @@ public class SomeProgram {
 		System.out.println("We will be Git experts, soon.");
 		System.out.println("dupa");
     }
+public void manageTheSatellite() {
+    // TODO implement
+}
 }
