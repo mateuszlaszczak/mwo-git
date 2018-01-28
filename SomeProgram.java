@@ -5,6 +5,9 @@ public class SomeProgram {
 		System.out.println("dupa");
     }
 	public void manageTheRocket() {
+	}
+	public void manageTheSatellite() {
+	}
     // TODO implement
-}
+
 }
